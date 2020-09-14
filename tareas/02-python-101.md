@@ -2,7 +2,7 @@
 
 Para resolver la tarea usé el siguiente script en Python 3:
 
-```
+```python
 """
 ==================================================
 >> Autor: Johann Gordillo
